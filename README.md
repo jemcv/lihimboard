@@ -31,7 +31,7 @@ This is an imageboard PHP application that follows the Model-View-Controller (MV
     ```
 
 2. Set up the database:
-    - Import the SQL file located at `sql/schema.sql` into your MySQL database.
+    - Import the SQL file located at `config/schema.sql` into your MySQL database.
 
 3. Configure the database connection:
     - Update the `config.php` file with your database credentials.
