@@ -59,7 +59,7 @@ Navigate to http://localhost:8888 in your web browser to access the application.
 
 ### 🔍 Linter
 
-This project uses [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) for linting. To check for coding standard violations, run:
+This project uses [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) for linting. To check for coding standard violations, run:
 
 ```
 vendor/bin/phpcs
